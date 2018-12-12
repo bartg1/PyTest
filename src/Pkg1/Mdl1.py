@@ -14,5 +14,5 @@ class MyClass(object):
         '''
         Constructor
         '''
-    print(value, ___, ', end='\n', file=sys_stdout, flush=False)
-        
+    print(value, ___, ', end='\n', file=sys_stdout, flush=False) 
+        afadfad 
